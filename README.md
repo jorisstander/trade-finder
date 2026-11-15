@@ -98,7 +98,7 @@ Your IP address is used in memory to limit new registrations per address. In add
 keeps request logs that include IP addresses, in size-limited rotating log files, for debugging and
 abuse handling. These logs are not linked to the stored player record.
 
-Contact: Discord `vladibeer`
+Questions, bug reports and finding trade partners: the Trade Finder Discord, https://discord.gg/dAmSqmSe3D
 
 ## Building
 
